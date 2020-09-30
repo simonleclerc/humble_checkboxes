@@ -1,3 +1,15 @@
+## Why  thoses choices ?
+
+This exercice is done with this blog post in mind:
+https://dev.to/krofdrakula/make-testable-components-using-the-humble-object-pattern-1j4o
+
+The goal was to experiment with this pattern in order to open the discussion
+about the lack of testability of front end application in general.
+
+This is clearly not a production ready code, it lacks test, typing, file structure...
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
